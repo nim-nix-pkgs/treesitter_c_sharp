@@ -11,8 +11,8 @@
   inputs.src-treesitter_c_sharp-master.ref   = "refs/heads/master";
   inputs.src-treesitter_c_sharp-master.owner = "genotrance";
   inputs.src-treesitter_c_sharp-master.repo  = "nimtreesitter";
-  inputs.src-treesitter_c_sharp-master.dir   = "treesitter_c_sharp";
-  inputs.src-treesitter_c_sharp-master.type  = "github";
+    inputs.src-treesitter_c_sharp-master.dir   = "treesitter_c_sharp";
+inputs.src-treesitter_c_sharp-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
   inputs."nimgen".ref   = "master";
